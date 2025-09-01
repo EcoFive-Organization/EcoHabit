@@ -1,6 +1,7 @@
 # EcoHabit
 Repositorio del proyecto EcoHabit
 Integrantes:
+
 Diego Alexander Aguirre Gutierrez
 
 Andrés Alonso Albino Gonzales
